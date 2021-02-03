@@ -1,9 +1,10 @@
-# Project 1: SAT & ACT Analysis
+# SAT & ACT Analysis
 
+* This is my first project after stepping into the world of data science. Most of the details are very simple as I explore the data using python. Well, it is a fun attempt!
 
 ## Problem Statement
 
-SAT and ACT are used for US college application. They attempt to measure an individual college readiness and predict future academic success. As we are administering the SAT test, our direct competitior will be the ACT, Inc whom is administering the ACT test. Therefore, in this project, we will be looking at how to improve the particiation of SAT test across the 51 states in USA and, how we can put our funds to better use.
+SAT and ACT are used for US college application. They are used to measure an individual college readiness and predict future academic success. In this analysis, we will be looking to mainly improve the SAT participation rate by studying the data of SAT test across the 51 states in USA. From there, we will determine how we can improve the participation.
 
 ## Executive Summary
 We will be using the datas of ACT and SAT in both 2017 and 2018 for the project. Data such as participation rates and tests mean scores are used for comparison and analysis. In this analysis, we will be looking for the trends and relationships between the features in both years and in different states. Some sources from outside research will be taken, to better understand the policies and requirements for education in different states. With these information, we will be making recommendation for which state to start improving on.
